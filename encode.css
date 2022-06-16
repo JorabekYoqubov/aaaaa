@@ -1,0 +1,66 @@
+.card mb-3{
+	width: 1400px;
+	height: 10vh;
+	top: 0;
+	left: 0;
+	right: 0;
+	align-content: center;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	background: #2b2d42;
+}
+.card-body{
+	text-align: center;
+	background: #e9d8a6;
+} 
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+button{
+	width: 150px;
+	border: 1px solid red;
+	background: #344e41;
+	color: white; 	
+	border-radius: 30px !important;
+	padding: 7px 15px;
+}
+.imga{
+	width: 1400px;
+	height: 450px;
+}
+i{
+	color: white;
+}
+.row{
+	background: #3a5a40;
+}
+h1{
+	color: transparent;
+}
+h1:hover{
+	color: black;
+}
+.footer{
+	background: black;
+	color: white;
+	height: 10vh;
+	align-content: center;
+	justify-content: center;
+	display: flex;
+}
+h2{
+	padding-top: 10px;
+}
+.salom{
+	padding-top: 13px;
+	padding-left: 20px;
+	font-size: 15px;
+	color: red;
+}
+.card-columns{
+	background: #3a5a40;
+}
+
